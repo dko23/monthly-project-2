@@ -1,0 +1,66 @@
+body{
+
+}
+.logo{
+	margin-left: 90px;
+}
+
+.maincontainer{
+
+	margin-left: 30px;
+
+}
+.maincontainer a{
+	color: black;
+}
+
+.menu1{
+	font-size: 0.8rem;
+}
+
+.menu a{
+	
+	padding-right: 20px;
+	margin-right: 50px;
+}
+.menu2 {
+	margin-left: 210px;
+	
+}
+.menu2 img{
+	height: 20px; 
+}
+
+.navcontainer2{
+	
+}
+
+.app{
+
+	margin-top: 80px;
+}
+.ribs{
+	margin-top: 130px;
+}
+.big-mac{
+	margin-top: 130px;
+}
+.latino{
+	margin-top: 130px;
+}
+.meal{
+	margin-top: 130px;
+}
+
+.deals{
+	margin-top: 130px;
+}
+.small{
+	font-size: 0.6rem;
+}
+.delivery{
+	}
+footer{
+	margin-top: 130px;
+	list-style-type: none;
+}
